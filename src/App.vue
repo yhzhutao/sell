@@ -15,6 +15,8 @@
     <keep-alive>
         <router-view :seller="seller"></router-view>
     </keep-alive>
+    <h1>fjlsdjfldfuadfalkjl</h1>
+    <h2>jflsdjfl</h2>
   </div>
 </template>
 
