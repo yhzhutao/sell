@@ -15,7 +15,6 @@
     <keep-alive>
         <router-view :seller="seller"></router-view>
     </keep-alive>
-    <div>我我我</div>
   </div>
 </template>
 
