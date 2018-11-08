@@ -15,7 +15,6 @@
     <keep-alive>
         <router-view :seller="seller"></router-view>
     </keep-alive>
-    <footer>this is footer</footer>
   </div>
 </template>
 
