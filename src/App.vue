@@ -15,6 +15,7 @@
     <keep-alive>
         <router-view :seller="seller"></router-view>
     </keep-alive>
+    <footer>这是结束标签</footer>
   </div>
 </template>
 
